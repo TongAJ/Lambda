@@ -1,4 +1,4 @@
-package com.atguigu.java8.chapterOne;
+package com.atguigu.java8.lambdaFirst;
 
 import org.junit.Test;
 
